@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="IndiTunes">
+  <rect width="64" height="64" rx="14" fill="#080705"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#c89b3c" stroke-width="3"/>
+  <circle cx="32" cy="32" r="6" fill="#c89b3c"/>
+  <path d="M25 18v28" stroke="#f8e6b0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M39 18v28" stroke="#f8e6b0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M25 18h14" stroke="#f8e6b0" stroke-width="5" stroke-linecap="round"/>
+</svg>
